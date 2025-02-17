@@ -1,7 +1,7 @@
 name = "muddy-lake-c2f8"
 main = ".test-worker.js"
 compatibility_date = "2023-08-23"
-account_id = "06ebf65a99f28c8a04b255e45b7ce926"
+account_id = ""
 
 [[r2_buckets]]
 binding = "R2"
